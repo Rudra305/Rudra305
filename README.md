@@ -1,37 +1,74 @@
 # Hi there, I'm Ashutosh Balsaraf 👋
 
-### 🚀 Full-Stack & Mobile Engineer
-Building high-performance web applications, offline-first mobile systems, and AI-enabled software.
+### 🚀 Full-Stack & Mobile Software Engineer
+*Building high-performance web applications, offline-first mobile systems, and AI-enabled developer tools.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ashutoshbuilds.vercel.app-7928CA?style=for-the-badge&logo=vercel&logoColor=white)](https://ashutoshbuilds.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Rudra305-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rudra305)
+<p align="left">
+  <a href="https://ashutoshbuilds.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ashutoshbuilds.vercel.app-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Rudra305"><img src="https://img.shields.io/badge/GitHub-Rudra305-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-### 🛠️ Core Tech Stack & Architecture
+### 🏛️ Engineering Philosophy
+> **Minimal → Technical → Interactive → Premium**
 
-- **Frontend & Web:** React 19, TypeScript, Next.js, Tailwind CSS, Material UI, Motion
-- **Mobile Engineering:** React Native 0.81, Expo SDK 54, SQLite (Offline-First), On-Device AI
-- **Backend & Cloud:** Node.js, Express, MongoDB, RESTful APIs, Vercel Edge, Docker
-- **Architecture Standards:** Atomic Design, WCAG AA Accessibility, 60fps Optimization, Modular Monoliths
+* **Performance & Polish**: 60fps responsive interactions, zero-bloat dependencies, and hardware-accelerated animations.
+* **Architecture-First**: Modular design, strict separation of concerns, and clean domain boundaries.
+* **Accessibility & Standards**: Full WCAG AA compliance, semantic markup, keyboard accessibility, and SEO-first indexing.
+
+---
+
+### 🛠️ Core Tech Stack
+
+```
+Frontend    :: React 19, TypeScript, Next.js, Tailwind CSS, Material UI, Motion
+Mobile      :: React Native, Expo SDK 54, SQLite (Offline-First), On-Device AI
+Backend     :: Node.js, Express, MongoDB, RESTful APIs, WebSockets
+Cloud & Ops :: Vercel Edge, Docker, Git, CI/CD Actions, Linux
+```
 
 ---
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tech Stack | Live Demo / Code |
+| Project | Domain | Architecture & Highlights | Live / Code |
 |---|---|---|---|
-| **[Presentia](https://github.com/Rudra305/Presentia)** | Offline-first, on-device AI face recognition student attendance & analytics system | React Native, Expo 54, SQLite | [Repository](https://github.com/Rudra305/Presentia) |
-| **[STOCKTAP](https://github.com/Rudra305/STOCKTAP)** | Touch-optimized tap-to-count inventory management with passcode PIN & low-stock alerts | React Native, Node.js, MongoDB | [Repository](https://github.com/Rudra305/STOCKTAP) |
-| **[Health Club](https://github.com/Rudra305/Health_Club)** | Modern Gym & Health Club management platform with membership tracking | React, Node.js, Express, Vercel | [Live App](https://ashutoshbuilds.vercel.app/) |
-| **[Portfolio & Engineering Workspace](https://github.com/Rudra305/ashutoshBalsaraf)** | Production portfolio featuring 250-star constellation canvas & real-time telemetry | React 19, TypeScript, Vercel | [Live Demo](https://ashutoshbuilds.vercel.app/) |
+| **[Presentia](https://github.com/Rudra305/Presentia)** | AI Mobile | Offline-first, on-device AI facial recognition student attendance & telemetry | [Code](https://github.com/Rudra305/Presentia) |
+| **[STOCKTAP](https://github.com/Rudra305/STOCKTAP)** | Inventory / Fullstack | Fast tap-to-count inventory audit system with passcode PIN lock & REST API | [Code](https://github.com/Rudra305/STOCKTAP) |
+| **[Health Club](https://github.com/Rudra305/Health_Club)** | Web Platform | Modern health club management app with membership tracking & analytics | [Live Demo](https://ashutoshbuilds.vercel.app/) |
+| **[Portfolio Workspace](https://github.com/Rudra305/ashutoshBalsaraf)** | Frontend Engineering | Production portfolio with 250-particle constellation canvas & real-time telemetry | [Live Demo](https://ashutoshbuilds.vercel.app/) |
 
 ---
 
-### 📈 Contribution Activity
+### 📊 GitHub Activity & Streak
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=Rudra305&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rudra305&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 Contribution Velocity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudra305&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" alt="Contribution Graph" />
 </p>
 
+---
+
+### 🐍 Contribution Activity Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudra305/Rudra305/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudra305/Rudra305/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Rudra305/Rudra305/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+---
+
+<p align="center">
+  <sub>Crafted with engineering discipline · Open to technical collaborations & high-impact projects</sub>
+</p>
