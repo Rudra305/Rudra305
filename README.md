@@ -45,8 +45,8 @@ Cloud & Ops :: Vercel Edge, Docker, Git, CI/CD Actions, Linux
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rudra305&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" height="195" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rudra305&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rudra305&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Ashutosh's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Rudra305&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Streak Stats" />
 </p>
 
 ---
